@@ -1,5 +1,6 @@
 {
     "name": "zNice",
+    "homepage": "https://github.com/onyzhin/zNice", 
     "main": ["jquery.validate.min.js","jquery.znice.validate.js","jquery.znice.js","jquery.znice.css"],
     "version": "1.0.1",
     "authors": [
